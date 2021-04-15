@@ -1,0 +1,230 @@
+ (routes 
+  (resolution mm 100000)
+  (parser
+  )
+  (parser
+  )
+  (structure_out
+   (layer TOP (type signal)
+   )
+   (layer I1 (type signal)
+   )
+   (layer I2 (type signal)
+   )
+   (layer I3 (type signal)
+   )
+   (layer I4 (type signal)
+   )
+   (layer I5 (type signal)
+   )
+   (layer I6 (type signal)
+   )
+   (layer I7 (type signal)
+   )
+   (layer I8 (type signal)
+   )
+   (layer I9 (type signal)
+   )
+   (layer I10 (type signal)
+   )
+   (layer I11 (type signal)
+   )
+   (layer I12 (type signal)
+   )
+   (layer I13 (type signal)
+   )
+   (layer I14 (type signal)
+   )
+   (layer BOT (type signal)
+   )
+  )
+  (library_out
+  (padstack $VIA#0_SIGNAL
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  (padstack $VIA#0_POWER
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  )
+  (network_out
+   (Net #00045 
+   (rule
+   )
+   (wire (path TOP 25400  -1370000 380000 -1370000 635000 1196000 635000
+     1196000 240000)
+    (connect (terminal pin REDVA1-0) (terminal pin R2-1))
+   )
+   )
+   (Net +5V 
+   (rule
+   )
+   (wire (path TOP 25400  -2324000 1440000 -2032000 1440000 -2032000 2171491
+     -618000 2171491 -618000 2632000)
+    (connect (terminal pin R1-1) (terminal pin U1-19))
+   )
+   (wire (path BOT 25400  -3070000 410000 -3070000 1440000 -2324000 1440000)
+    (connect (terminal pin J2-0) (terminal pin R1-1))
+   )
+   )
+   (Net AD0 
+   (rule
+   )
+   )
+   (Net AD1 
+   (rule
+   )
+   )
+   (Net AD2 
+   (rule
+   )
+   )
+   (Net AD3 
+   (rule
+   )
+   )
+   (Net AD4 
+   (rule
+   )
+   )
+   (Net AD5 
+   (rule
+   )
+   )
+   (Net AREF 
+   (rule
+   )
+   )
+   (Net GND 
+   (rule
+   )
+   (wire (path BOT 25400  -1130000 380000 -1130000 1587500 -872000 1587500
+     -872000 1870000)
+    (connect (terminal pin REDVA1-1) (terminal pin U1-7))
+   )
+   (wire (path BOT 25400  -872000 1870000 -872000 2220927 -1126000 2220927
+     -1126000 2632000)
+    (connect (terminal pin U1-7) (terminal pin U1-21))
+   )
+   (wire (path TOP 25400  -2562000 410000 -2222500 410000 -2222500 127000
+     -1130000 127000 -1130000 380000)
+    (connect (terminal pin J2-1) (terminal pin REDVA1-1))
+   )
+   )
+   (Net IO0 
+   (rule
+   )
+   (wire (path TOP 25400  40000 1020000 -2540000 1020000 -2540000 1587500
+     -2396000 1587500 -2396000 1870000)
+    (connect (terminal pin R3-0) (terminal pin U1-1))
+   )
+   )
+   (Net IO1 
+   (rule
+   )
+   (wire (path BOT 25400  -1810000 1420000 -2142000 1420000 -2142000 1870000)
+    (connect (terminal pin R4-0) (terminal pin U1-2))
+   )
+   )
+   (Net IO13 
+   (rule
+   )
+   (wire (path BOT 25400  180000 240000 180000 1538679 -254000 1538679
+     -254000 2349500 -364000 2349500 -364000 2632000)
+    (connect (terminal pin R2-0) (terminal pin U1-18))
+   )
+   )
+   (Net IO2 
+   (rule
+   )
+   )
+   (Net IO3 
+   (rule
+   )
+   )
+   (Net IO4 
+   (rule
+   )
+   )
+   (Net IO5 
+   (rule
+   )
+   )
+   (Net IO6 
+   (rule
+   )
+   )
+   (Net IO7 
+   (rule
+   )
+   )
+   (Net IO8 
+   (rule
+   )
+   )
+   (Net IO9 
+   (rule
+   )
+   )
+   (Net MISO 
+   (rule
+   )
+   )
+   (Net MOSI 
+   (rule
+   )
+   )
+   (Net RESET 
+   (rule
+   )
+   (wire (path TOP 25400  -3340000 1440000 -2650000 1440000 -2650000 1870000)
+    (connect (terminal pin R1-0) (terminal pin U1-0))
+   )
+   )
+   (Net RXD 
+   (rule
+   )
+   )
+   (Net SS 
+   (rule
+   )
+   )
+   (Net TXD 
+   (rule
+   )
+   )
+   (Net VCC/VDD 
+   (rule
+   )
+   )
+  )
+ )
