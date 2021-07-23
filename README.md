@@ -3,6 +3,8 @@
 # Related work
 - https://vasanza.blogspot.com/
 - https://ieeexplore.ieee.org/abstract/document/9232863
+- https://vasanza.blogspot.com/2020/08/sistemas-embebidos-end-device-free-rtos.html
+- https://vasanza.blogspot.com/2020/08/sistemas-embebidos-end-device.html
 
 # CLONE
 - git status
