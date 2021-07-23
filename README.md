@@ -1,14 +1,24 @@
-![Embedded](https://user-images.githubusercontent.com/12642226/126781936-d30cc8fd-26aa-4832-abfb-85bc8b3b21c9.PNG)
+# Eclipse Installer:
+- https://www.eclipse.org/downloads/
+
+# ESP-IDF Eclipse Plugin:
+- https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md
 
 # Related work
-- https://vasanza.blogspot.com/
-- https://ieeexplore.ieee.org/abstract/document/9232863
-- https://vasanza.blogspot.com/2020/08/sistemas-embebidos-end-device-free-rtos.html
-- https://vasanza.blogspot.com/2020/08/sistemas-embebidos-end-device.html
+- https://microiware.blogspot.com/
+
+# IDE
+- Eclipse 2021
+
+# DEVICE
+- ESP32 - WROOM32
+
+# HARDWARE TERASIC
+- Adafruit HUZZAH32 – ESP32 Feather Board
 
 # CLONE
 - git status
-- git clone https://github.com/vasanza/EmbeddedSystems.git
+- git clone https://github.com/vasanza/EmbeddedSystems_Architecture.git
 
 # SWITCHED TO BRANCH
 - git branch
