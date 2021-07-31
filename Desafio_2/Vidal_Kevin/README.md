@@ -1,3 +1,6 @@
+#PseudoCodigo Desafio 2
+![github-small](https://github.com/vasanza/EmbeddedSystems/blob/EmbeddedSystems_Architecture/Desafio_2/Vidal_Kevin/Pseudocodigo_Desafio_2.jpg)
+
 <<<<<<< HEAD
 # Eclipse Installer:
 - https://www.eclipse.org/downloads/
