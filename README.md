@@ -11,13 +11,14 @@
 - git clone https://github.com/vasanza/EmbeddedSystems.git
 
 # SWITCHED TO BRANCH
-- git branch
+- git branch -a
 - git checkout NameBranch
 
 # New Branch
 - git checkout -b NameBranch
 
 # PUSH
+- git pull origin NameBranch
 - git status
 - git add .
 - git status
