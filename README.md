@@ -11,6 +11,8 @@
 - [Cómo programar Arduino en lenguaje C en VSC](https://www.youtube.com/watch?v=wvFqXPSUtxQ).
 
 # Code examples
+- [TSC-LAB](https://tsc-lab.blogspot.com/#google_vignette).
+- [2PEM-100A](https://2pem100a.blogspot.com/).
 - https://github.com/jonathancagua/Test-makefile
 ## Examples 2020PAO1 
 - [End Device #Arduino #FreeRTOS](https://vasanza.blogspot.com/2020/08/sistemas-embebidos-end-device-free-rtos.html).
