@@ -1,4 +1,7 @@
 ![Embedded](https://user-images.githubusercontent.com/12642226/126781936-d30cc8fd-26aa-4832-abfb-85bc8b3b21c9.PNG)
+# Instrucciones
+- [Cómo programar Arduino con Visual Studio Code y PlatformIO](https://www.youtube.com/watch?v=u9IMgIT1A6M).
+- 
 
 # Code examples
 - https://github.com/jonathancagua/Test-makefile
